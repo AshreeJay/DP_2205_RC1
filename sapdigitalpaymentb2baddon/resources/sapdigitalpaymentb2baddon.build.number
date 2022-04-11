@@ -1,0 +1,11 @@
+#Ant properties
+#Fri Mar 18 10:43:27 UTC 2022
+version.api=2205
+vendor=hybris
+group.id=de.hybris.platform
+name=sapdigitalpaymentb2baddon
+description=sapdigitalpaymentb2baddon
+builddate=20220318 1043
+releasedate=20220312 0828
+version=2205.0
+module.name=platform-module
